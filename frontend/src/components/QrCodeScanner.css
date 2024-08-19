@@ -1,0 +1,12 @@
+.scanner-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.qr-reader {
+  z-index: 1;
+}
+
+.scanner-lens {
+  z-index: 2;
+}
